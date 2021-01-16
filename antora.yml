@@ -1,5 +1,6 @@
 name: general
 title: Home
 version: master
+start_page: index.adoc
 nav:
 - modules/ROOT/nav.adoc
